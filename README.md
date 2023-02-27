@@ -2,6 +2,8 @@
 
 Copy from https://reactrouter.com/en/main/start/tutorial#setup
 
+## Authentication and Authorization in react
+https://medium.com/@ghimiresamana666/authentication-and-authorization-in-react-8fc76a496ba0
 
 # Getting Started with Create React App
 
